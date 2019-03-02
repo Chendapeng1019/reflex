@@ -1,0 +1,2 @@
+classname=reflect.Student
+methodname=sayHi
